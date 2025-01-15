@@ -7,7 +7,7 @@
     "run:api": "npx nx serve node-api",
     "run:ui": "npx nx run ui:storybook",
     "build-storybook": "npx nx build-storybook ui",
-    "chromatic": "npx chromatic --project-token=CHROMATIC_PROJECT_TOKEN",
+    "chromatic": "npx chromatic --project-token=chpt_601c2f544f81795",
     "generate": "npx nx g @nx/js:lib",
     "format": "npx nx format",
     "prepare": "husky",
